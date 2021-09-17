@@ -113,6 +113,32 @@ Mała Zosia mówi do mamy:<br>
 <LI> AMD Ryzen 5 2600 3,9 GHz AM4
 <LI> Intel Core i5-9600K
  </OL> 
+	<OL>
+<font color=brown>
+<h2 align=middle> Systemy liczbowe </h2>
+<LI> systemy liczbowe wykorzystywane w informatyce
+<OL type=A>
+<LI> system 8
+<LI> system 16
+<LI> system binarny
+</OL>
+<LI> system:
+<OL type=A>
+<LI> 8 służy służy do zapisu:
+<OL type=a>
+<LI> komurek pamięci
+</OL>
+<LI> 16 służy służy do zapisu:
+<OL type=a>
+<LI> adresu mac karty sieciowej
+<LI> kolorów w systemach operacyjnych
+</OL>
+<LI> binarny służy do:
+<OL type=a>
+<LI> działania wysztkich urządzeń elektronicznych
+</OL>
+</OL>
+</OL>
 	</body>
 
 </html>
