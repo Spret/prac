@@ -42,6 +42,8 @@
             </body>
 			<HR ALIGN=middle COLOR=blue>
 			<h1 ALIGN=left >Dowcipy o Informatykach</h1>
+<IMG SRC=joker-review_t64a.1200.jpg ALIGN=left BORDER=32 WIDTH=122 HEIGHT=126 ALT=grafika 1 Spretka>
+<IMG SRC=joker-review_t64a.1200.jpg ALIGN=right BORDER=32 WIDTH=122 HEIGHT=126 ALT=grafika 1 Spretka>
 <FIELDSET>
 <LEGEND> <b> Informatyk i złota rybka </b> </LEGEND>
 Pewien informatyk poszedł na ryby. <br>
