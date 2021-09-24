@@ -8,6 +8,14 @@
 
            </head> 
              <body>
+			 <a name="początek"></a>
+			 <a href="#środek">kliknij aby skoczyć na środek tekstu</a> <br>
+			 <a href="#koniec">kliknij aby skoczyć na koniec tekstu</a> <br>
+			 <A HREF="Poczta_Spretka.html"> Tutaj jest link Poczty </A> <br>
+			 <A HREF="Plik_Spretka.html"> Tutaj jest link do Pliku </A> <br>
+			 <A HREF="Tabela_Spretka.html"> Tutaj jest link do tabeli </A> <br>
+			 <A HREF="Formularz_Spretka.html"> Tutaj jest link do Formularza </A> <br>
+			 
  <h6 align="middle"> Spretka </h6> 
  <h5 align="middle"> Spretka </h5> 
  <h4 align="middle"> Spretka </h4> 
@@ -23,29 +31,37 @@
 <p align="middle"> <font color="red" size="6" face="Arial"> Alan </font> </p>
 <p align="middle"> <font color="red" size="7" face="Arial"> Alan </font> </p>
 
-             </body>
-           <body>
+
+
 <p align="middle"> <font color="green" size="1" face="Times New Roman"> :{ smutek </font> </p>
 <p align="middle"> <font color="black" size="2" face="Modern"> :} uśmiech </font> </p>
 <p align="middle"> <font color="brown" size="3" face="Courier New"> ;{ płacz </font> </p>
 <p align="middle"> <font color="pruple" size="4" face="Verdana"> :0 szok smutek </font> </p>
 <p align="middle"> <font color="red" size="5" face="Showcard Gothic"> :D duży uśmiech </font> </p>
 <p align="middle"> <font color="blue" size="6" face="Segoe Print"> :P wytknięty język </font> </p> <br>
-             </body>
-            <body>
+
+
 <p align="left"> <font color="black" size="4" face="Times New Roman"> <b> 80-805 </b> <i> Gdańsk </i> <u> Jana Pawła II </u> <strike> 21/37 </strike> </u> </p> <br>
 <p align="middle"> <font color="red" size="12" face="Courier New"> Ulubiony aktor Pit Brat </p> <br>
 <p align="middle"> <font color="grey" size="4" face="Verdana">  Ulubiony zespół muzyczny to: Nirvana </p> <br>
 <p align="middle"> <font color="green" size="3" face="Verdana"> Data urodzenia: 06 czerwiec 2006 </p> <br>
 <p align="left"> <font color="black" size="5" face="Times New Roman"> <sup> <b> H<sub>2</sub>SO<sub>4</sub> </sup> </b> </p> <br>
 <p align="left"> <font color="black" size="5" face="Times New Roman"> 	<sub> <b> x*x=x<sup>2</sub> </sup> </b> </p> <br>
-            </body>
+
 			<HR ALIGN=middle COLOR=blue>
+			<a href="#początek">kliknij aby skoczyć na początek tekstu</a> <br>
+			<a href="#koniec">kliknij aby skoczyć na koniec tekstu</a> <br>
+			<A HREF="Poczta_Spretka.html"> Tutaj jest link Poczty </A> <br>
+			 <A HREF="Plik_Spretka.html"> Tutaj jest link do Pliku </A> <br>
+			 <A HREF="Tabela_Spretka.html"> Tutaj jest link do tabeli </A> <br>
+			 <A HREF="Formularz_Spretka.html"> Tutaj jest link do Formularza </A> <br>
 			<h1 ALIGN=left >Dowcipy o Informatykach</h1>
-<IMG SRC=joker-review_t64a.1200.jpg ALIGN=left BORDER=32 WIDTH=122 HEIGHT=126 ALT=grafika 1 Spretka>
-<IMG SRC=joker-review_t64a.1200.jpg ALIGN=right BORDER=32 WIDTH=122 HEIGHT=126 ALT=grafika 1 Spretka>
+<a name="środek"></a>
+
+
 <FIELDSET>
 <LEGEND> <b> Informatyk i złota rybka </b> </LEGEND>
+
 Pewien informatyk poszedł na ryby. <br>
 Złapał złotą rybkę, która obiecała spełnić tradycyjnie trzy życzenia. <br>
 Informatyk mówi:<br>
@@ -53,8 +69,10 @@ Informatyk mówi:<br>
 - Za trudne.<br>
 - No to, aby windows się nie zacinał.<br>
 - To już niech będzie ten pokój na świecie. <br>
+<IMG SRC="joker.gif" ALIGN=right BORDER=32 WIDTH=122 HEIGHT=126 ALT="grafika 1 Spretka"> 
+<IMG SRC="joker.gif" ALIGN=left BORDER=32 WIDTH=122 HEIGHT=126 ALT="grafika 2 Spretka">
 </FIELDSET>
-<HR SIZE=10 WIDTH=600 ALIGN=left COLOR=red >
+<HR SIZE=10 WIDTH=600 ALIGN=left COLOR=red > 
 <h2 ALIGN=middle >Dowcipy o babie</h2>
 <FIELDSET>
 <LEGEND> <b> baba na siłowni </b> </LEGEND>
@@ -63,6 +81,8 @@ Kobieta na siłowni podnosi sztangę. <br>
 Zwraca sie do instruktora:<br>
 - Może mi Pan pomóc?<br>
 - Sześć<br>
+<IMG SRC="giphy-4-2.gif" ALIGN=left BORDER=32 WIDTH=122 HEIGHT=126 ALT="grafika 3 Spretka">
+<IMG SRC="giphy-4-2.gif" ALIGN=right BORDER=32 WIDTH=122 HEIGHT=126 ALT="grafika 4 Spretka">
 </FIELDSET>
 <HR SIZE=20 WIDTH=250 ALIGN=middle COLOR=green NOSHADE>
 <h2 ALIGN=right >Dowcipy o zosi</h2>
@@ -71,12 +91,13 @@ Zwraca sie do instruktora:<br>
 Mała Zosia mówi do mamy:<br>
 - Mamusiu, pójdę do sklepu, kupię sobie zeszyt.<br>
 - Zosiu, zobacz jaka brzydka pogoda, pada deszcz, wiatr wieje, psa szkoda wypędzić na dwór, tatuś pójdzie i ci kupi.<br>
+<IMG SRC="joaquin-phoenix-the-joker.gif" ALIGN=right BORDER=32 WIDTH=122 HEIGHT=126 ALT="grafika 5 Spretka">
+<IMG SRC="joaquin-phoenix-the-joker.gif" ALIGN=left BORDER=32 WIDTH=122 HEIGHT=126 ALT="grafika 6 Spretka">
 </FIELDSET>
 <HR SIZE=15 WIDTH=400 ALIGN=right COLOR=purple NOSHADE>
 <!- Nazwisko		Imię		Szkoła		Klasa
 	Spretka			Alan		ZSE			1P->
 	/?#@$%^
-	<body>
 	
 	<h2 align=middle> <font color=blue> Najwięksi producenci komputerów na świecie </h2>
 <UL TYPE=circle> 
@@ -115,7 +136,7 @@ Mała Zosia mówi do mamy:<br>
 <LI> AMD Ryzen 5 2600 3,9 GHz AM4
 <LI> Intel Core i5-9600K
  </OL> 
-	<OL>
+<OL>
 <font color=brown>
 <h2 align=middle> Systemy liczbowe </h2>
 <LI> systemy liczbowe wykorzystywane w informatyce
@@ -141,6 +162,13 @@ Mała Zosia mówi do mamy:<br>
 </OL>
 </OL>
 </OL>
+<a name="koniec"></a>
+<a href="#początek">kliknij aby skoczyć na początek tekstu</a> <br>
+<a href="#środek">kliknij aby skoczyć na środek tekstu</a> <br>
+<A HREF="Poczta_Spretka.html"> Tutaj jest link Poczty </A> <br>
+<A HREF="Plik_Spretka.html"> Tutaj jest link do Pliku </A> <br>
+<A HREF="Tabela_Spretka.html"> Tutaj jest link do tabeli </A> <br>
+<A HREF="Formularz_Spretka.html"> Tutaj jest link do Formularza </A> <br>
 	</body>
 
 </html>
